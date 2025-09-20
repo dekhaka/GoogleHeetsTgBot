@@ -27,3 +27,6 @@
    ```env
    TELEGRAM_TOKEN=ваш_токен
    GOOGLE_SHEET_ID=ваш_id_таблицы
+
+## 🎥 Демо
+Видео-демонстрация: [Ссылка на Google Диск]([https://drive.google.com/...](https://drive.google.com/file/d/1L2VuDdnCv0d5r_Rw2QDoPjcMehNtnESp/view?usp=drive_link)
